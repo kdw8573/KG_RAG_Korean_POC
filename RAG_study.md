@@ -27,7 +27,7 @@
 
 - RAG pipeline을 구성하게 도와주는 python 라이브러리.
 - Knowledge Base를 준비하는 `indexing stage`와 Knowledge Base에서 쿼리와 관련성이 높은 node를 검색하여 쿼리와 함께 node를 LLM에 전달하는 `query stage`로 이루어진다.
-  ![RAG workflow](https://i0.wp.com/www.usefulparadigm.com/wp-content/uploads/2023/09/LlamaIndex_workflow.png?w=720&ssl=1)_RAG WorkFlow_
+  ![RAG workflow](https://i0.wp.com/www.usefulparadigm.com/wp-content/uploads/2023/09/LlamaIndex_workflow.png?w=720&ssl=1)
 - indexing stage
   1. 데이터 소스를 Data Loader를 통해 Document 형태로 읽어온다.
   2. Documents를 chunk size만큼 parsing하여 node 단위로 나눈다.
