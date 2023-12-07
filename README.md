@@ -64,3 +64,8 @@ python rag_query.py
 query: 수원FC에 대해 상세하게 알려줘
 output: 수원FC는 대한민국 수원시에 기반을 둔 프로 축구 클럽입니다. 2012년에 창단된 이 클럽은 축구를 실천하는 클럽입니다. 수원FC는 수원월드컵경기장에서 홈 경기를 치르며 한국프로축구연맹(K리그1)에서 활동하고 있습니다.
 ```
+
+## 참고 사이트
+
+- https://docs.nebula-graph.io/3.6.0/4.deployment-and-installation/2.compile-and-install-nebula-graph/4.install-nebula-graph-from-tar/
+- https://docs.nebula-graph.io/3.6.0/2.quick-start/5.start-stop-service/
